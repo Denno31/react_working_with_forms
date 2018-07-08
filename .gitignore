@@ -6,7 +6,7 @@
 # testing
 /coverage
 .idea/
- package-lock.json
+package-lock.json
 public/
 
 # production
